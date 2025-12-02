@@ -2,37 +2,44 @@
 I'm Ankit Chand
 Just started my journey into the world of cybersecurity — learning, breaking things ethically, fixing them, and building my skills step by step.
 
-🔐 About Me
+🔐 Aspiring Cybersecurity Enthusiast | Student | Tech Learner
+📌 About Me
 
-🌱 Currently learning the fundamentals of Cyber Security, Networking, and Linux
+🌱 Currently learning Cyber Security, Networking, and Linux
 
-💻 Exploring tools like Wireshark, nmap, and Burp Suite.
+🛠️ Exploring tools like Wireshark, nmap, and Kali Linux
 
-🧪 Practicing through labs, writeups, and small security projects
+💡 Interested in ethical hacking, network defense, and digital forensics
 
-🚀 Aim: To become skilled in ethical hacking, network security, and digital forensics
+🎯 Aim: Becoming a skilled cybersecurity professional
 
-📚 What You'll Find Here
+🚀 Skills:
 
-Beginner-friendly projects and scripts
+Languages: [Python / Bash ]
 
-Notes & practice from my cybersecurity learning path
+Security Tools: [nmap, Wireshark, Burp Suite…]
 
-Experiments with tools, commands, and concepts
+Operating Systems: [Kali Linux, Windows, Ubuntu]
 
-Security writeups as I grow
+Other: [Git, GitHub, Networking Basics]
 
-🎯 Goals for 2026
+📚 What I’m Working On
 
-Build strong foundational knowledge in cybersecurity
+🔍 Learning basics of penetration testing
 
-Complete SOC beginner labs and CTF challenges
+📘 Creating notes & small cybersecurity projects
 
-Create and share more security-related projects on GitHub
+🧪 Practicing labs, challenges, and writeups
 
-Contribute to open-source cybersecurity tools
+🎯 Goals for 2025
 
-📚 I'm currently learning all about IT and Security.
+Build a strong foundation in cybersecurity
+
+Complete CTF challenges and security courses
+
+Share more projects and learning logs
+
+Contribute to beginner-friendly security tools
 
 📫 Contact Me
 
