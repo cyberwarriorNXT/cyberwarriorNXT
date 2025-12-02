@@ -32,7 +32,7 @@ Other: [Git, GitHub, Networking Basics]
 
 🧪 Practicing labs, challenges, and writeups
 
-🎯 Goals for 2025
+🎯 Goals for 2026
 
 Build a strong foundation in cybersecurity
 
